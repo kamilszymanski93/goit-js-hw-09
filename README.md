@@ -1,6 +1,6 @@
 https://kamilszymanski93.github.io/goit-js-hw-09/
 
-# Parcel template
+# Parcel template.
 
 Ten projekt został stworzony przy pomocy Parcel. W celu zapoznania się i
 skonfigurowania dodatkowych opcji [zobacz dokumentację](https://parceljs.org/)
