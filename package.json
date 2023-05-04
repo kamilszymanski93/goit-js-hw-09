@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://kamilszymanski93.github.io/goit-js-hw-09.git"
+    "url": "git+https://github.com/kamilszymanski93/goit-js-hw-09.git"
   },
   "keywords": [],
   "author": "Kamil Szymański <kamil313313@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://kamilszymanski93.github.io/goit-js-hw-09/issues"
+    "url": "https://github.com/kamilszymanski93/goit-js-hw-09/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
