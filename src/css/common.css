@@ -16,3 +16,16 @@ img {
   display: block;
   max-width: 100%;
 }
+.switcher-button {
+  height: 60px;
+  width: 210px;
+  background-color: lightblue;
+  color: black;
+  border: solid 1px black;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.switcher-button:is(:hover, :focus) {
+  color: white;
+  background-color: grey;
+}
