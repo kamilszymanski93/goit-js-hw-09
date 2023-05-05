@@ -25,6 +25,7 @@ img {
 .switcher-button {
   height: 60px;
   width: 210px;
+  border-radius: 10px;
   /* background-color: lightblue;
   color: black;
   border: solid 1px black;
