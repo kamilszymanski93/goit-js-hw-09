@@ -10,22 +10,28 @@ body {
   background-color: #fafafa;
   color: #212121;
   line-height: 1.5;
+  transition: background-color 1s;
 }
 
 img {
   display: block;
   max-width: 100%;
 }
+.switcher-box {
+  display: flex;
+  justify-content: center;
+  gap: 80px;
+}
 .switcher-button {
   height: 60px;
   width: 210px;
-  background-color: lightblue;
+  /* background-color: lightblue;
   color: black;
   border: solid 1px black;
   border-radius: 10px;
-  cursor: pointer;
+  cursor: pointer; */
 }
-.switcher-button:is(:hover, :focus) {
+/* .switcher-button:is(:hover, :focus) {
   color: white;
   background-color: grey;
-}
+} */
